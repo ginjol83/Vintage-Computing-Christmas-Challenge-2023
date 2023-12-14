@@ -1,0 +1,20 @@
+Christmas Challenge Game Boy C version
+
+Author: Ginjol 
+Category: Christmas Challenge
+System:   Game Boy
+Language: C
+Len source code: 1 KBytes
+Len exe file:    32 KBytes
+
+Instructions:
+
+in Game Boy emulator find .gb file
+
+Description:
+
+Its only a printf sentence
+
+Comments:
+
+It's a developed in C for Game Boy, compiled with gbdk and lcc compiler. the code is compatible with all c compilers

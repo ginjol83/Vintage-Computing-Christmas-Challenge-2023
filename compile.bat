@@ -1,0 +1,1 @@
+c:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -Wm-ys -o main.gb main.c
